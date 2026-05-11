@@ -50,4 +50,5 @@ The full analysis is contained in `exponentially-weighted-moving-average.ipynb`.
    Place DailyDelhiClimateTest.csv in the root directory.
 
 3. **Run the Notebook:**
+
    Analyze how Delhi's climate patterns emerge once the daily noise is removed.   
