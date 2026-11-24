@@ -212,12 +212,6 @@ Some possible extensions of this project include:
 - Extending the analysis to forecasting methods.
 - Studying the role of exponential moving averages in optimization algorithms such as Adam and RMSprop.
 
-## Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- Repository: [Exponentially Weighted Moving Average](https://github.com/mani787060/exponentially-weighted-moving-average)
 
 ---
 
