@@ -212,7 +212,6 @@ Some possible extensions of this project include:
 - Extending the analysis to forecasting methods.
 - Studying the role of exponential moving averages in optimization algorithms such as Adam and RMSprop.
 
-
 ---
 
 *This project is part of my continuous learning journey in Data Science, Machine Learning, and time-series analysis.*
